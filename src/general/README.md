@@ -1,0 +1,1 @@
+# Trang viết các thứ chung chung

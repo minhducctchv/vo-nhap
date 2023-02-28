@@ -1,0 +1,19 @@
+{
+  "name": "vo_nhap",
+  "version": "0.0.1",
+  "description": "vở nháp",
+  "main": "index.js",
+  "authors": {
+    "name": "Duc pro",
+    "email": "minhduc05011997@gmail.com"
+  },
+  "repository": "minhduc.github.com/vo_nhap",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
