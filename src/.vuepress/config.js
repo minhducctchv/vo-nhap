@@ -49,6 +49,10 @@ module.exports = {
         link: '/vue/'
       },
       {
+        text: 'JavaScript',
+        link: '/javascript/'
+      },
+      {
         text: 'VuePress',
         link: 'https://v1.vuepress.vuejs.org'
       }
@@ -81,6 +85,16 @@ module.exports = {
             '',
             'composition_api',
             'vben'
+          ]
+        }
+      ],
+      '/javascript/': [
+        {
+          title: 'Vue',
+          collapsable: true,
+          children: [
+            '',
+            'array',
           ]
         }
       ],
